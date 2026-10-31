@@ -55,6 +55,6 @@ def setup(plugin):
 | `game_updated` | After a game is updated | `app_name`, `game`, `previous_version` |
 
 To add a plugin here, put its folder in the repository, run `python build_index.py` to update `index.json`, and open
-a pull request. CI runs `python build_index.py --check`.
+a pull request. CI runs `python build_index.py --check` and the tests in `tests`, against Heirloom from GitHub.
 
 Licensed under the GPL 3.0, as Heirloom is.
