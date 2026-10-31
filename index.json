@@ -1,0 +1,39 @@
+{
+  "plugins": [
+    {
+      "name": "close-epic-launcher",
+      "common_name": "Close the Epic Games Launcher",
+      "description": "Closes the Epic Games Launcher when a game starts, so it doesn't run in the background while you play",
+      "version": "1.0.0",
+      "folder": "close-epic-launcher"
+    },
+    {
+      "name": "discord-presence",
+      "common_name": "Discord Rich Presence",
+      "description": "Shows the game you're playing in your Discord status, with the time played so far",
+      "version": "1.0.0",
+      "folder": "discord-presence"
+    },
+    {
+      "name": "library-worth",
+      "common_name": "Library worth",
+      "description": "Adds up what your library costs on the Epic Games Store, at full price and today (\"heirloom worth\")",
+      "version": "1.1.0",
+      "folder": "library-worth"
+    },
+    {
+      "name": "notifications",
+      "common_name": "Notifications",
+      "description": "A desktop notification when a game finishes installing or updating",
+      "version": "1.1.0",
+      "folder": "notifications"
+    },
+    {
+      "name": "power-plan",
+      "common_name": "High performance while playing",
+      "description": "Switches Windows to the High performance power plan while a game runs, and back afterwards",
+      "version": "1.0.0",
+      "folder": "power-plan"
+    }
+  ]
+}

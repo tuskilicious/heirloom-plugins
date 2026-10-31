@@ -1,0 +1,12 @@
+{
+  "name": "library-worth",
+  "common_name": "Library worth",
+  "description": "Adds up what your library costs on the Epic Games Store, at full price and today (\"heirloom worth\")",
+  "version": "1.1.0",
+  "actions": [
+    {
+      "title": "Work out my library's worth",
+      "command": "worth"
+    }
+  ]
+}

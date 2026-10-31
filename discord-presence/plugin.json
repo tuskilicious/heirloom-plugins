@@ -1,0 +1,6 @@
+{
+  "name": "discord-presence",
+  "common_name": "Discord Rich Presence",
+  "description": "Shows the game you're playing in your Discord status, with the time played so far",
+  "version": "1.0.0"
+}
